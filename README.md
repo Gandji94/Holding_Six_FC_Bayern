@@ -5,5 +5,6 @@ Throughout the analysis, I will perform different cluster models to see which fi
 - DBSCAN Model
 - Hierarchical Clustering Model
 - Affinity Propagation Model
+
 The data for the analysis was gathered from the website FBREF
 (https://fbref.com/de/). For the analysis, data from the 2022/2023 season from the seven best leagues in Europa was used.
